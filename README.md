@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hey! Im Christopher Hosken
+## I'm a Technical Artist
 
 <!--
 **Christopher-Hosken/Christopher-Hosken** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
