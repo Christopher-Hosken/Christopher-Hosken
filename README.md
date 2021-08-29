@@ -9,13 +9,11 @@ I'm an 16 year old High School student, hopefully on my way to becoming an Techn
 ![java](https://img.shields.io/badge/java-C00.svg?style=for-the-badge&logo=java)
 
 
-#### Design
+#### Software
 ![adobe xd](https://img.shields.io/badge/adobe_xd-cc2f16.svg?style=for-the-badge&logo=adobexd&logoColor=white)
 ![blender](https://img.shields.io/badge/blender-%23F24E1E.svg?style=for-the-badge&logo=blender&logoColor=white)
 ![houdini](https://img.shields.io/badge/houdini-e68319.svg?style=for-the-badge&logo=houdini&logoColor=white)
 ![nuke](https://img.shields.io/badge/nuke-e6a919.svg?style=for-the-badge&logo=nuke&logoColor=white)
-
-#### IDEs/Editors
 ![Visual Studio Code](https://img.shields.io/badge/VisualStudioCode-0078d7.svg?style=for-the-badge&logo=visual-studio-code)
 ![Replit](https://img.shields.io/badge/Replit-%23203330.svg?style=for-the-badge&logo=replit&theme=dark)
 
