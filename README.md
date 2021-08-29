@@ -10,11 +10,11 @@ I'm an 16 year old High School student, hopefully on my way to becoming an Techn
 
 
 #### Design
-![adobe xd](https://img.shields.io/badge/adobe_xd-%23F24E1E.svg?style=for-the-badge&logo=adobexd&logoColor=white)
+![adobe xd](https://img.shields.io/badge/adobe_xd-cc2f16.svg?style=for-the-badge&logo=adobexd&logoColor=white)
 ![blender](https://img.shields.io/badge/blender-%23F24E1E.svg?style=for-the-badge&logo=blender&logoColor=white)
-![houdini](https://img.shields.io/badge/houdini-%23F24E1E.svg?style=for-the-badge&logo=blender&logoColor=white)
-![nuke](https://img.shields.io/badge/nuke-%23F24E1E.svg?style=for-the-badge&logo=nuke&logoColor=white)
-![davinci resolve](https://img.shields.io/badge/davinci_resolve-%23F24E1E.svg?style=for-the-badge&logo=davinciresolve&logoColor=white)
+![houdini](https://img.shields.io/badge/houdini-e68319.svg?style=for-the-badge&logo=houdini&logoColor=white)
+![nuke](https://img.shields.io/badge/nuke-e6a919.svg?style=for-the-badge&logo=nuke&logoColor=000)
+![davinci resolve](https://img.shields.io/badge/davinci_resolve-5a19e6.svg?style=for-the-badge&logo=davinciresolve&logoColor=white)
 
 #### IDEs/Editors
 ![Visual Studio Code](https://img.shields.io/badge/VisualStudioCode-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
