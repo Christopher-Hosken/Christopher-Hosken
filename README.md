@@ -1,6 +1,6 @@
 ### Hi, I'm Chris!
 ---
-I'm an 16 year old High School student, hopefully on my way to becoming an Technical Artist. I'm currenty learning C, C++, C#, and machine learning.
+I'm an 17 year old High School student, hopefully on my way to becoming an Technical Artist. I'm currenty learning C, C++, C#, and machine learning.
 
 #### Languages & Framework
 
