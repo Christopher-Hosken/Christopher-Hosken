@@ -14,7 +14,7 @@ I'm a 17 year old student on my way to becoming a Technical Artist. I've been pr
 ![houdini](https://img.shields.io/badge/houdini-e68319.svg?style=for-the-badge&logo=houdini&logoColor=white)
 ![nuke](https://img.shields.io/badge/nuke-e6a919.svg?style=for-the-badge&logo=nuke&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/VisualStudioCode-0078d7.svg?style=for-the-badge&logo=visual-studio-code)
-![Visual Studio](https://img.shields.io/badge/VisualStudio-0078d7.svg?style=for-the-badge&logo=visual-studio-code)
+![Visual Studio](https://img.shields.io/badge/VisualStudio-0078d7.svg?style=for-the-badge&logo=visual-studio)
 
 
 ### 📊 Here are my stats.
