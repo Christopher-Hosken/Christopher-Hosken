@@ -10,11 +10,11 @@ I'm a 17 year old student on my way to becoming a Technical Artist. I've been pr
 
 
 #### Software
-![adobe xd](https://img.shields.io/badge/adobe_xd-cc2f16.svg?style=for-the-badge&logo=adobexd&logoColor=white)
 ![blender](https://img.shields.io/badge/blender-%23F24E1E.svg?style=for-the-badge&logo=blender&logoColor=white)
 ![houdini](https://img.shields.io/badge/houdini-e68319.svg?style=for-the-badge&logo=houdini&logoColor=white)
 ![nuke](https://img.shields.io/badge/nuke-e6a919.svg?style=for-the-badge&logo=nuke&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/VisualStudioCode-0078d7.svg?style=for-the-badge&logo=visual-studio-code)
+![Visual Studio](https://img.shields.io/badge/VisualStudio-0078d7.svg?style=for-the-badge&logo=visual-studio-code)
 
 
 ### 📊 Here are my stats.
