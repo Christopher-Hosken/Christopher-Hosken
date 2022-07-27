@@ -1,6 +1,6 @@
 ### Hi, I'm Chris!
 ---
-I'm an 17 year old High School student, hopefully on my way to becoming an Technical Artist. I'm currenty learning C, C++, C#, and machine learning.
+I'm a 17 year old student on my way to becoming a Technical Artist. I've been programming for 3 years and am profficient in HTML, CSS, Python, and Java. Alongside programming, I've been doing digital art for 6 years. I'm extremely experienced in Blender and am currently learning Houdini, Nuke, and Maya.
 
 #### Languages & Framework
 
@@ -15,7 +15,6 @@ I'm an 17 year old High School student, hopefully on my way to becoming an Techn
 ![houdini](https://img.shields.io/badge/houdini-e68319.svg?style=for-the-badge&logo=houdini&logoColor=white)
 ![nuke](https://img.shields.io/badge/nuke-e6a919.svg?style=for-the-badge&logo=nuke&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/VisualStudioCode-0078d7.svg?style=for-the-badge&logo=visual-studio-code)
-![Replit](https://img.shields.io/badge/Replit-%23203330.svg?style=for-the-badge&logo=replit&theme=dark)
 
 
 ### 📊 Here are my stats.
